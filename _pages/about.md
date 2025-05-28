@@ -29,10 +29,10 @@ latest_posts:
     <div style="font-size:2.5rem;font-weight:bold;text-transform:uppercase;line-height:1.1;">ZHIRUI BIAN <span style="font-size:1.5rem;font-weight:normal;vertical-align:middle;">(卞直瑞)</span></div>
     <div style="font-size:1.1rem;margin:0.5rem 0 1.2rem 0;color:#aaa;">Master's Student, Computer & Information Science Department,<br>University of Pennsylvania</div>
     <div style="margin-top:auto;display:flex;align-items:center;gap:0.7em;">
-      <a href="mailto:bzredk@seas.upenn.edu"><i class="fas fa-envelope fa-lg"></i></a>
-      <a href="mailto:bzr962166649@gmail.com"><i class="fas fa-envelope-open fa-lg"></i></a>
-      <a href="https://www.linkedin.com/in/zhirui-bian-65857526b/" target="_blank"><i class="fab fa-linkedin fa-lg"></i></a>
-      <a href="https://scholar.google.com.hk/citations?user=vmCWvc8AAAAJ&hl=zh-CN" target="_blank"><i class="ai ai-google-scholar-square ai-lg"></i></a>
+      <a href="mailto:bzredk@seas.upenn.edu"><i class="fas fa-envelope fa-2x"></i></a>
+      <a href="mailto:bzr962166649@gmail.com"><i class="fas fa-envelope-open fa-2x"></i></a>
+      <a href="https://www.linkedin.com/in/zhirui-bian-65857526b/" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
+      <a href="https://scholar.google.com.hk/citations?user=vmCWvc8AAAAJ&hl=zh-CN" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a>
     </div>
   </div>
 </div>
