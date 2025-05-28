@@ -21,7 +21,7 @@ latest_posts:
 ---
 
 <!-- 顶部：照片右侧大名/单位/社交 -->
-<div style="display:flex;align-items:flex-start;gap:2.5rem;flex-wrap:wrap;">
+<div style="display:flex;align-items:flex-start;gap:2.5rem;flex-wrap:wrap;margin-bottom:2.5rem;">
   <div style="flex:0 0 auto;max-width:320px;"></div>
   <div style="flex:1 1 320px;min-width:260px;max-width:480px;display:flex;flex-direction:column;justify-content:flex-start;height:100%;">
     <div style="font-size:2.5rem;font-weight:bold;text-transform:uppercase;line-height:1.1;">ZHIRUI BIAN <span style="font-size:1.5rem;font-weight:normal;vertical-align:middle;">(卞直瑞)</span></div>
@@ -37,7 +37,7 @@ latest_posts:
 </div>
 
 <!-- 照片下方：自我介绍 -->
-<div style="max-width:1200px;margin:2.5rem auto 1.5rem auto;font-size:1.15rem;">
+<div style="max-width:1200px;margin:0 auto 2.5rem auto;font-size:1.15rem;">
 I am <b>ZHIRUI BIAN</b> (Ray/Redk), currently a master's student in the CIS Department at the University of Pennsylvania.
 </div>
 
