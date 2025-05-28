@@ -22,12 +22,16 @@ latest_posts:
 
 <!-- 顶部：照片右侧大名/单位/社交 -->
 <div style="display:flex;align-items:flex-start;gap:2.5rem;flex-wrap:wrap;margin-bottom:2.5rem;">
-  <div style="flex:0 0 auto;max-width:320px;"></div>
-  <div style="flex:1 1 320px;min-width:260px;max-width:480px;display:flex;flex-direction:column;justify-content:flex-start;height:100%;">
-    <div style="font-size:2.5rem;font-weight:bold;text-transform:uppercase;line-height:1.1;">ZHIRUI BIAN <span style="font-size:1.5rem;font-weight:normal;vertical-align:middle;">(卞直瑞)</span></div>
-    <div style="font-size:1.1rem;margin:0.5rem 0 0.5rem 0;color:#aaa;">Master's Student, Computer & Information Science Department,<br>University of Pennsylvania</div>
-    <div style="font-size:1.05rem;margin-bottom:1.2rem;">bzredk@seas.upenn.edu</div>
-    <div style="margin-top:auto;display:flex;align-items:center;gap:0.7em;">
+  <div style="flex:0 0 auto;max-width:320px;">
+    <img src="{{ site.baseurl }}/assets/img/prof_pic.jpg" alt="profile picture" style="width:100%;max-width:320px;height:auto;border-radius:4px;">
+  </div>
+  <div style="flex:1 1 320px;min-width:260px;max-width:480px;display:flex;flex-direction:column;justify-content:space-between;height:320px;">
+    <div>
+      <div style="font-size:2.5rem;font-weight:bold;text-transform:uppercase;line-height:1.1;">ZHIRUI BIAN <span style="font-size:1.5rem;font-weight:normal;vertical-align:middle;">(卞直瑞)</span></div>
+      <div style="font-size:1.1rem;margin:0.5rem 0 0.5rem 0;color:#aaa;">Master's Student, Computer & Information Science Department,<br>University of Pennsylvania</div>
+      <div style="font-size:1.05rem;margin-bottom:1.2rem;">bzredk@seas.upenn.edu</div>
+    </div>
+    <div style="display:flex;align-items:center;gap:0.7em;">
       <a href="mailto:bzredk@seas.upenn.edu"><i class="fas fa-envelope fa-2x"></i></a>
       <a href="mailto:bzr962166649@gmail.com"><i class="fas fa-envelope-open fa-2x"></i></a>
       <a href="https://www.linkedin.com/in/zhirui-bian-65857526b/" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
@@ -54,7 +58,7 @@ I am <b>ZHIRUI BIAN</b> (Ray/Redk), currently a master's student in the CIS Depa
     I received my <b>B.Eng.</b> degree from <b>Nanjing University</b>, China, where I was awarded the <b>National Scholarship</b> and recognized as <b>the Outstanding Student</b>.
   </div>
   <div style="margin-bottom:2rem;">
-    <h3 style="margin-bottom:0.5rem;"><a href="#research-publications" id="research-publications" style="color:inherit;text-decoration:none;">Research & Publications</a></h3>
+    <h3 style="margin-bottom:0.5rem;"><a href="/publications/" style="color:inherit;text-decoration:none;">Research & Publications</a></h3>
     <div class="publications">
       {% bibliography --query @*[selected=true]* --group_by none %}
     </div>
