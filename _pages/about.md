@@ -32,10 +32,10 @@ latest_posts:
       <div style="font-size:1.05rem;margin-bottom:1.2rem;">bzredk@seas.upenn.edu</div>
     </div>
     <div style="display:flex;align-items:center;gap:0.7em;">
-      <a href="mailto:bzredk@seas.upenn.edu"><i class="fas fa-envelope fa-2x"></i></a>
-      <a href="mailto:bzr962166649@gmail.com"><i class="fas fa-envelope-open fa-2x"></i></a>
-      <a href="https://www.linkedin.com/in/zhirui-bian-65857526b/" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
-      <a href="https://scholar.google.com.hk/citations?user=vmCWvc8AAAAJ&hl=zh-CN" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a>
+      <a href="mailto:bzredk@seas.upenn.edu"><i class="fas fa-envelope" style="font-size:2.4em;"></i></a>
+      <a href="mailto:bzr962166649@gmail.com"><i class="fas fa-envelope-open" style="font-size:2.4em;"></i></a>
+      <a href="https://www.linkedin.com/in/zhirui-bian-65857526b/" target="_blank"><i class="fab fa-linkedin" style="font-size:2.4em;"></i></a>
+      <a href="https://scholar.google.com.hk/citations?user=vmCWvc8AAAAJ&hl=zh-CN" target="_blank"><i class="ai ai-google-scholar-square" style="font-size:2.4em;"></i></a>
     </div>
   </div>
 </div>
@@ -47,12 +47,12 @@ I am <b>ZHIRUI BIAN</b> (Ray/Redk), currently a master's student in the CIS Depa
 
 <!-- 纵向结构：Research Interest、Previously、Research & Publications -->
 <div style="max-width:1200px;margin:0 auto 2.5rem auto;">
-  <div style="margin-bottom:2rem;">
+  <div style="margin-bottom:2rem;text-align:justify;">
     <h3 style="margin-bottom:0.5rem;">Research Interest</h3>
-    My current research focuses on <b>natural-language processing and large-scale language models</b> under the supervision of <a href="https://www.cis.upenn.edu/~ccb/" target="_blank">Prof. Chris Callison-Burch</a>. I am particularly interested in <b>bridging NLP/LLM technologies with building science</b>, and have recently started investigating <b>reasoning capabilities in large language models</b>.<br><br>
+    My current research focuses on <b>natural-language processing and large-scale language models</b> under the supervision of <a href="https://www.cis.upenn.edu/~ccb/" target="_blank">Prof. Chris Callison-Burch</a>. I am also fascinated by <b>learning theory</b> and the fundamental principles that underpin how models learn and generalize from data. I am particularly interested in <b>bridging NLP/LLM technologies with building science</b>, and have recently started investigating <b>reasoning capabilities in large language models</b>.<br><br>
     My interdisciplinary background bridges <b>computer science, building science, and computational design</b>, and I am passionate about developing intelligent systems that make our built environment more sustainable and responsive.
   </div>
-  <div style="margin-bottom:2rem;">
+  <div style="margin-bottom:2rem;text-align:justify;">
     <h3 style="margin-bottom:0.5rem;">Previously</h3>
     Prior to joining Penn CIS, I completed the <b>Environmental Building Design (EBD)</b> program at Penn's Weitzman School of Design, where I was advised by <a href="https://www.design.upenn.edu/people/william-w-braham" target="_blank">Prof. William Braham</a>, with a <b>LEED Green Associate</b> credential, on environmental simulation and performance-driven architectural design.<br><br>
     I received my <b>B.Eng.</b> degree from <b>Nanjing University</b>, China, where I was awarded the <b>National Scholarship</b> and recognized as <b>the Outstanding Student</b>.
