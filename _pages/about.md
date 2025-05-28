@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: ""
-selected_papers: true
+selected_papers: false
 social: false
 announcements:
   enabled: false
@@ -55,7 +55,9 @@ I am <b>ZHIRUI BIAN</b> (Ray/Redk), currently a master's student in the CIS Depa
   </div>
   <div style="margin-bottom:2rem;">
     <h3 style="margin-bottom:0.5rem;"><a href="#research-publications" id="research-publications" style="color:inherit;text-decoration:none;">Research & Publications</a></h3>
-    <!-- selected_papers 自动渲染 -->
+    <div class="publications">
+      {% bibliography --query @*[selected=true]* --group_by none %}
+    </div>
   </div>
 </div>
 
