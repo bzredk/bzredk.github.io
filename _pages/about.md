@@ -29,10 +29,10 @@ latest_posts:
     <div>
       <div style="font-size:2.5rem;font-weight:bold;text-transform:uppercase;line-height:1.1;">ZHIRUI BIAN <span style="font-size:1.5rem;font-weight:normal;vertical-align:middle;">(卞直瑞)</span></div>
       <div style="font-size:1.1rem;margin:0.5rem 0 0.5rem 0;color:#aaa;">Master's Student, Computer & Information Science Department,<br>University of Pennsylvania</div>
-      <div style="font-size:1.05rem;margin-bottom:1.2rem;">bzredk@seas.upenn.edu</div>
+      <div style="font-size:1.05rem;margin-bottom:1.2rem;">bzredk@engineering.upenn.edu</div>
     </div>
     <div style="display:flex;align-items:center;gap:0.7em;">
-      <a href="mailto:bzredk@seas.upenn.edu"><i class="fas fa-envelope" style="font-size:2.4em;"></i></a>
+      <a href="mailto:bzredk@engineering.upenn.edu"><i class="fas fa-envelope" style="font-size:2.4em;"></i></a>
       <a href="mailto:bzr962166649@gmail.com"><i class="fas fa-envelope-open" style="font-size:2.4em;"></i></a>
       <a href="https://www.linkedin.com/in/zhirui-bian-65857526b/" target="_blank"><i class="fab fa-linkedin" style="font-size:2.4em;"></i></a>
       <a href="https://scholar.google.com.hk/citations?user=vmCWvc8AAAAJ&hl=zh-CN" target="_blank"><i class="ai ai-google-scholar-square" style="font-size:2.4em;"></i></a>
@@ -49,7 +49,7 @@ I am <b>ZHIRUI BIAN</b> (Ray/Redk), currently a master's student in the CIS Depa
 <div style="max-width:1200px;margin:0 auto 2.5rem auto;">
   <div style="margin-bottom:2rem;text-align:justify;">
     <h3 style="margin-bottom:0.5rem;">Research Interest</h3>
-    My current research focuses on <b>natural-language processing and large-scale language models</b> under the supervision of <a href="https://www.cis.upenn.edu/~ccb/" target="_blank">Prof. Chris Callison-Burch</a>. I am also fascinated by <b>learning theory</b> and the fundamental principles that underpin how models learn and generalize from data. I am particularly interested in <b>bridging NLP/LLM technologies with building science</b>, and have recently started investigating <b>reasoning capabilities in large language models</b>.<br><br>
+    My current research focuses on <b>cognition and neuro-symbolic AI</b> under the supervision of <a href="https://www.cis.upenn.edu/~ccb/" target="_blank">Prof. Chris Callison-Burch</a>. I am also fascinated by <b>learning theory</b> and the fundamental principles that underpin how models learn and generalize from data. I am particularly interested in <b>bridging NLP/LLM technologies with building science</b>, and have recently started investigating <b>reasoning capabilities in large language models</b>.<br><br>
     My interdisciplinary background bridges <b>computer science, building science, and computational design</b>, and I am passionate about developing intelligent systems that make our built environment more sustainable and responsive.
   </div>
   <div style="margin-bottom:2rem;text-align:justify;">
@@ -63,7 +63,18 @@ I am <b>ZHIRUI BIAN</b> (Ray/Redk), currently a master's student in the CIS Depa
       {% bibliography --query @*[selected=true]* --group_by none %}
     </div>
   </div>
+  <div style="margin-bottom:2rem;">
+    <h3 style="margin-bottom:0.5rem;">Teaching</h3>
+    <div style="display:grid;grid-template-columns:4.25rem minmax(0,1fr);column-gap:1rem;align-items:start;">
+      <div style="font-weight:600;">2026</div>
+      <div>
+        <a href="https://catalog.upenn.edu/courses/cit/" target="_blank"><b>CIT 5960: Algorithms and Computation</b></a><br>
+        <span style="color:var(--global-text-color-light);">Teaching Assistant &middot; University of Pennsylvania</span>
+        <div style="margin-top:0.35rem;">Led recitations and instructional sessions, graded coursework, and supported students through office hours and course Q&amp;A.</div>
+      </div>
+    </div>
+  </div>
 </div>
 
 <!-- Interests -->
-<div style="margin:1.5rem 0 1.5rem 0;font-size:1rem;color:#888;"><b>Interests:</b> Basketball & Tennis &bull; Singing & Music &bull; Drawing & Digital Art &bull; Pokémon Games &bull; Romance of the Three Kingdoms (strategy games)</div>
+<div style="margin:1.5rem 0 1.5rem 0;font-size:1rem;color:#888;"><b>Interests:</b> Basketball (part-time NBA game-day media staff) &bull; Pokémon VGC (amateur competitor) &bull; <a href="https://heyzine.com/flip-book/e205dc52d4.html" target="_blank" rel="noopener noreferrer" title="A selection of pre-AI work" style="color:#555;font-weight:500;">Visual Art &amp; Design</a></div>
