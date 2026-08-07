@@ -68,9 +68,21 @@ I am <b>ZHIRUI BIAN</b> (Ray/Redk), currently a master's student in the CIS Depa
     <div style="display:grid;grid-template-columns:4.25rem minmax(0,1fr);column-gap:1rem;align-items:start;">
       <div style="font-weight:600;">2026</div>
       <div>
-        <a href="https://catalog.upenn.edu/courses/cit/" target="_blank"><b>CIT 5960: Algorithms and Computation</b></a><br>
-        <span style="color:var(--global-text-color-light);">Teaching Assistant &middot; University of Pennsylvania</span>
-        <div style="margin-top:0.35rem;">Led recitations and instructional sessions, graded coursework, and supported students through office hours and course Q&amp;A.</div>
+        <div style="color:#666;font-weight:500;margin-bottom:0.7rem;">Teaching Assistant, University of Pennsylvania</div>
+        <div>
+          <div style="display:grid;grid-template-columns:minmax(0,1fr) 4rem;column-gap:1rem;align-items:baseline;">
+            <a href="https://catalog.upenn.edu/courses/cit/" target="_blank"><b>CIT 5960: Algorithms and Computation</b></a>
+            <span style="color:#666;font-weight:500;text-align:right;">Spring</span>
+          </div>
+          <div style="margin-top:0.35rem;color:var(--global-text-color-light);font-size:0.95rem;line-height:1.45;text-align:justify;">Algorithm design and analysis with emphasis on rigorous problem modeling, correctness arguments, graph algorithms, dynamic programming, greedy strategies, and complexity.</div>
+        </div>
+        <div style="margin-top:1rem;">
+          <div style="display:grid;grid-template-columns:minmax(0,1fr) 4rem;column-gap:1rem;align-items:baseline;">
+            <a href="https://catalog.upenn.edu/courses/cit/" target="_blank"><b>CIT 5920: Mathematical Foundations of Computer Science</b></a>
+            <span style="color:#666;font-weight:500;text-align:right;">Fall</span>
+          </div>
+          <div style="margin-top:0.35rem;color:var(--global-text-color-light);font-size:0.95rem;line-height:1.45;text-align:justify;">Proof-based mathematical foundations for computer science, covering logic, sets, functions, combinatorics, probability, induction, recurrences, and graph theory.</div>
+        </div>
       </div>
     </div>
   </div>
