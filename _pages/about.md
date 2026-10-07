@@ -68,7 +68,8 @@ I am <b>ZHIRUI BIAN</b> (Ray/Redk), currently a master's student in the CIS Depa
     <div style="display:grid;grid-template-columns:4.25rem minmax(0,1fr);column-gap:1rem;align-items:start;">
       <div style="font-weight:600;">2026</div>
       <div>
-        <div style="color:#666;font-weight:500;margin-bottom:0.7rem;">University of Pennsylvania</div>
+        <div style="color:#666;font-weight:500;margin-bottom:0.35rem;">University of Pennsylvania</div>
+        <div style="margin-bottom:1rem;color:#666;font-size:0.95rem;font-weight:400;line-height:1.45;">Teaching duties: leading recitations, grading, and supporting students through office hours and discussion forums.</div>
         <div>
           <div style="display:grid;grid-template-columns:minmax(0,1fr) 4rem;column-gap:1rem;align-items:baseline;">
             <a href="https://catalog.upenn.edu/courses/cit/" target="_blank"><b>CIT 5960: Algorithms and Computation</b></a>
@@ -76,7 +77,6 @@ I am <b>ZHIRUI BIAN</b> (Ray/Redk), currently a master's student in the CIS Depa
           </div>
           <div style="margin-top:0.35rem;color:#666;font-weight:500;">Teaching Assistant</div>
           <div style="margin-top:0.35rem;color:var(--global-text-color-light);font-size:0.95rem;line-height:1.45;text-align:justify;">Algorithm design and analysis with emphasis on rigorous problem modeling, correctness arguments, graph algorithms, dynamic programming, greedy strategies, and complexity.</div>
-          <div style="margin-top:0.5rem;color:#666;font-size:0.95rem;font-weight:400;line-height:1.45;">Led recitations, graded coursework, and supported students through office hours and discussion forums.</div>
         </div>
         <div style="margin-top:1.25rem;">
           <div style="display:grid;grid-template-columns:minmax(0,1fr) 4rem;column-gap:1rem;align-items:baseline;">
@@ -85,7 +85,7 @@ I am <b>ZHIRUI BIAN</b> (Ray/Redk), currently a master's student in the CIS Depa
           </div>
           <div style="margin-top:0.35rem;color:#666;font-weight:500;">Head Teaching Assistant</div>
           <div style="margin-top:0.35rem;color:var(--global-text-color-light);font-size:0.95rem;line-height:1.45;text-align:justify;">Proof-based mathematical foundations for computer science, covering logic, sets, functions, combinatorics, probability, induction, recurrences, and graph theory.</div>
-          <div style="margin-top:0.5rem;color:#666;font-size:0.95rem;font-weight:400;line-height:1.45;">Lead recitations, grade homework and exams, and support students through office hours and discussion forums. Coordinate the TA team, homework preparation and release, grade releases, and Ed monitoring.</div>
+          <div style="margin-top:0.5rem;color:#666;font-size:0.95rem;font-weight:400;line-height:1.45;">Coordinate the TA team and course logistics, including homework preparation, assignment and grade releases, and Ed monitoring schedules.</div>
         </div>
       </div>
     </div>
