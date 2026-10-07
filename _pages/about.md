@@ -68,12 +68,13 @@ I am <b>ZHIRUI BIAN</b> (Ray/Redk), currently a master's student in the CIS Depa
     <div style="display:grid;grid-template-columns:4.25rem minmax(0,1fr);column-gap:1rem;align-items:start;">
       <div style="font-weight:600;">2026</div>
       <div>
-        <div style="color:#666;font-weight:500;margin-bottom:0.7rem;">Teaching Assistant, University of Pennsylvania</div>
+        <div style="color:#666;font-weight:500;margin-bottom:0.7rem;">University of Pennsylvania</div>
         <div>
           <div style="display:grid;grid-template-columns:minmax(0,1fr) 4rem;column-gap:1rem;align-items:baseline;">
             <a href="https://catalog.upenn.edu/courses/cit/" target="_blank"><b>CIT 5960: Algorithms and Computation</b></a>
             <span style="color:#666;font-weight:500;text-align:right;">Spring</span>
           </div>
+          <div style="margin-top:0.35rem;color:#666;font-weight:500;">Teaching Assistant</div>
           <div style="margin-top:0.35rem;color:var(--global-text-color-light);font-size:0.95rem;line-height:1.45;text-align:justify;">Algorithm design and analysis with emphasis on rigorous problem modeling, correctness arguments, graph algorithms, dynamic programming, greedy strategies, and complexity.</div>
         </div>
         <div style="margin-top:1rem;">
@@ -81,7 +82,9 @@ I am <b>ZHIRUI BIAN</b> (Ray/Redk), currently a master's student in the CIS Depa
             <a href="https://catalog.upenn.edu/courses/cit/" target="_blank"><b>CIT 5920: Mathematical Foundations of Computer Science</b></a>
             <span style="color:#666;font-weight:500;text-align:right;">Fall</span>
           </div>
+          <div style="margin-top:0.35rem;color:#666;font-weight:500;">Head Teaching Assistant</div>
           <div style="margin-top:0.35rem;color:var(--global-text-color-light);font-size:0.95rem;line-height:1.45;text-align:justify;">Proof-based mathematical foundations for computer science, covering logic, sets, functions, combinatorics, probability, induction, recurrences, and graph theory.</div>
+          <div style="margin-top:0.35rem;color:var(--global-text-color-light);font-size:0.95rem;line-height:1.45;">Coordinate the TA team and oversee homework preparation, assignment and grade releases, and Ed monitoring. Lead recitations and grade homework and exams.</div>
         </div>
       </div>
     </div>
