@@ -76,15 +76,16 @@ I am <b>ZHIRUI BIAN</b> (Ray/Redk), currently a master's student in the CIS Depa
           </div>
           <div style="margin-top:0.35rem;color:#666;font-weight:500;">Teaching Assistant</div>
           <div style="margin-top:0.35rem;color:var(--global-text-color-light);font-size:0.95rem;line-height:1.45;text-align:justify;">Algorithm design and analysis with emphasis on rigorous problem modeling, correctness arguments, graph algorithms, dynamic programming, greedy strategies, and complexity.</div>
+          <div style="margin-top:0.5rem;color:#666;font-size:0.95rem;font-weight:400;line-height:1.45;">Led recitations, graded coursework, and supported students through office hours and discussion forums.</div>
         </div>
-        <div style="margin-top:1rem;">
+        <div style="margin-top:1.25rem;">
           <div style="display:grid;grid-template-columns:minmax(0,1fr) 4rem;column-gap:1rem;align-items:baseline;">
             <a href="https://catalog.upenn.edu/courses/cit/" target="_blank"><b>CIT 5920: Mathematical Foundations of Computer Science</b></a>
             <span style="color:#666;font-weight:500;text-align:right;">Fall</span>
           </div>
           <div style="margin-top:0.35rem;color:#666;font-weight:500;">Head Teaching Assistant</div>
           <div style="margin-top:0.35rem;color:var(--global-text-color-light);font-size:0.95rem;line-height:1.45;text-align:justify;">Proof-based mathematical foundations for computer science, covering logic, sets, functions, combinatorics, probability, induction, recurrences, and graph theory.</div>
-          <div style="margin-top:0.35rem;color:var(--global-text-color-light);font-size:0.95rem;line-height:1.45;">Coordinate the TA team and oversee homework preparation, assignment and grade releases, and Ed monitoring. Lead recitations and grade homework and exams.</div>
+          <div style="margin-top:0.5rem;color:#666;font-size:0.95rem;font-weight:400;line-height:1.45;">Lead recitations, grade homework and exams, and support students through office hours and discussion forums. Coordinate the TA team, homework preparation and release, grade releases, and Ed monitoring.</div>
         </div>
       </div>
     </div>
