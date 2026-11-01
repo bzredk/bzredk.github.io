@@ -49,7 +49,7 @@ I am <b>ZHIRUI BIAN</b> (Ray/Redk), currently a master's student in the CIS Depa
 <div style="max-width:1200px;margin:0 auto 2.5rem auto;">
   <div style="margin-bottom:2rem;text-align:justify;">
     <h3 style="margin-bottom:0.5rem;">Research Interest</h3>
-    My current research focuses on <b>cognition and neuro-symbolic AI</b> under the supervision of <a href="https://www.cis.upenn.edu/~ccb/" target="_blank">Prof. Chris Callison-Burch</a>. I am also fascinated by <b>learning theory</b> and the fundamental principles that underpin how models learn and generalize from data. I am particularly interested in <b>bridging NLP/LLM technologies with building science</b>, and have recently started investigating <b>reasoning capabilities in large language models</b>.<br><br>
+    I am currently working with <a href="https://nbfigueroa.github.io/" target="_blank">Prof. Nadia Figueroa</a>. My research interests include <b>cognition and neuro-symbolic AI</b>. I am also fascinated by <b>learning theory</b> and the fundamental principles that underpin how models learn and generalize from data. I am particularly interested in <b>bridging NLP/LLM technologies with building science</b>, and have recently started investigating <b>reasoning capabilities in large language models</b>.<br><br>
     My interdisciplinary background bridges <b>computer science, building science, and computational design</b>, and I am passionate about developing intelligent systems that make our built environment more sustainable and responsive.
   </div>
   <div style="margin-bottom:2rem;text-align:justify;">
